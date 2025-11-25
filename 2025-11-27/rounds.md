@@ -1,41 +1,90 @@
 ## Runde 1
-Eintragung der Ergebnisse am 24. November 2025 um 12:12 Uhr.
+In dieser Runde sind 4 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 26. November 2025, um 00:04 Uhr.
 
-2 Mitspieler:  
-1. Peter_Hahn
-2. Nightbot
+Auflistung nach erzielten Platz:  
+1. Aegyptischer_Panda
+2. GawrilaGhul
+3. DontCallMeChicken
+4. Peter_Hahn
 
 ## Runde 2
-Eintragung der Ergebnisse am 24. November 2025 um 12:12 Uhr.
+In dieser Runde sind 3 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 26. November 2025, um 00:05 Uhr.
 
-2 Mitspieler:  
-1. DontCallMeChicken
-2. Peter_Hahn
+Auflistung nach erzielten Platz:  
+1. GawrilaGhul
+2. Aegyptischer_Panda
+3. DontCallMeChicken
 
 ## Runde 3
-Eintragung der Ergebnisse am 24. November 2025 um 12:13 Uhr.
+In dieser Runde sind 4 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 26. November 2025, um 00:05 Uhr.
 
-4 Mitspieler:  
-1. Peter_Hahn
-2. Nightbot
+Auflistung nach erzielten Platz:  
+1. Aegyptischer_Panda
+2. GawrilaGhul
 3. DontCallMeChicken
-4. StreamElements
+4. ska_raccoon
 
 ## Runde 4
-Eintragung der Ergebnisse am 24. November 2025 um 12:13 Uhr.
+In dieser Runde sind 4 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 26. November 2025, um 00:06 Uhr.
 
-5 Mitspieler:  
+Auflistung nach erzielten Platz:  
 1. Aegyptischer_Panda
-2. DontCallMeChicken
-3. Peter_Hahn
-4. Nightbot
-5. StreamElements
+2. GawrilaGhul
+3. ska_raccoon
+4. Peter_Hahn
 
 ## Runde 5
-Eintragung der Ergebnisse am 24. November 2025 um 12:14 Uhr.
+In dieser Runde sind 3 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 26. November 2025, um 00:19 Uhr.
 
-3 Mitspieler:  
+Auflistung nach erzielten Platz:  
+1. DontCallMeChicken
+2. ska_raccoon
+3. Peter_Hahn
+
+## Runde 6
+In dieser Runde sind 5 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 26. November 2025, um 00:20 Uhr.
+
+Auflistung nach erzielten Platz:  
+1. DontCallMeChicken
+2. Aegyptischer_Panda
+3. GawrilaGhul
+4. ska_raccoon
+5. Peter_Hahn
+
+## Runde 7
+In dieser Runde sind 4 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 26. November 2025, um 00:22 Uhr.
+
+Auflistung nach erzielten Platz:  
 1. Aegyptischer_Panda
-2. Peter_Hahn
-3. DontCallMeChicken
+2. GawrilaGhul
+3. ska_raccoon
+4. Peter_Hahn
+
+## Runde 8
+In dieser Runde sind 4 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 26. November 2025, um 00:23 Uhr.
+
+Auflistung nach erzielten Platz:  
+1. Aegyptischer_Panda
+2. DontCallMeChicken
+3. GawrilaGhul
+4. Peter_Hahn
+
+## Runde 9
+In dieser Runde sind 5 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 26. November 2025, um 00:25 Uhr.
+
+Auflistung nach erzielten Platz:  
+1. DontCallMeChicken
+2. ska_raccoon
+3. Peter_Hahn
+4. Aegyptischer_Panda
+5. GawrilaGhul
+
+## Runde 10
+In dieser Runde sind 4 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 26. November 2025, um 00:26 Uhr.
+
+Auflistung nach erzielten Platz:  
+1. Aegyptischer_Panda
+2. DontCallMeChicken
+3. GawrilaGhul
+4. ska_raccoon
 
