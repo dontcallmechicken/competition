@@ -34,3 +34,11 @@ Auflistung nach erzielten Platz im Spiel:
 5. krischa88xx
 6. xsnowflake1x
 
+## Runde 4
+In dieser Runde sind 3 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 4. Dezember 2025, um 21:46 Uhr.
+
+Auflistung nach erzielten Platz im Spiel:  
+1. echteFrau
+2. DontCallMeChicken
+3. GawrilaGhul
+
