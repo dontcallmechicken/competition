@@ -11,3 +11,15 @@ Auflistung nach erzielten Platz im Spiel:
 7. krischa88xx
 8. geckoofcolor
 
+## Runde 2
+In dieser Runde sind 7 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 4. Dezember 2025, um 20:35 Uhr.
+
+Auflistung nach erzielten Platz im Spiel:  
+1. MayaManuka
+2. mariia_cel
+3. D3lTa_Music
+4. geckoofcolor
+5. xsnowflake1x
+6. GawrilaGhul
+7. krischa88xx
+

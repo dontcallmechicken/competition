@@ -1,11 +1,13 @@
 ## Spielerliste
 | Spieler | Punkte | Rundenanzahl | Runden | Rang Punkte | Rang Runden |
 | :------- | -------: | -------: | :------- | -------: | -------: |
-| echteFrau | 8 | 1 | 1 | 1 | 1 |
-| GawrilaGhul | 7 | 1 | 1 | 2 | 1 |
-| mariia_cel | 6 | 1 | 1 | 3 | 1 |
-| Publikum | 5 | 1 | 1 | 4 | 1 |
-| D3lTa_Music | 4 | 1 | 1 | 5 | 1 |
-| DontCallMeChicken | 3 | 1 | 1 | 6 | 1 |
-| krischa88xx | 2 | 1 | 1 | 7 | 1 |
-| geckoofcolor | 1 | 1 | 1 | 8 | 1 |
+| echteFrau | 8 | 1 | 1 | 3 | 1 |
+| GawrilaGhul | 10 | 2 | 1,2 | 2 | 2 |
+| mariia_cel | 13 | 2 | 1,2 | 1 | 2 |
+| Publikum | 5 | 1 | 1 | 6 | 3 |
+| D3lTa_Music | 10 | 2 | 1,2 | 2 | 4 |
+| DontCallMeChicken | 3 | 1 | 1 | 8 | 5 |
+| krischa88xx | 4 | 2 | 1,2 | 7 | 6 |
+| geckoofcolor | 6 | 2 | 1,2 | 5 | 6 |
+| MayaManuka | 7 | 1 | 2 | 4 | 7 |
+| xsnowflake1x | 4 | 1 | 2 | 7 | 7 |
