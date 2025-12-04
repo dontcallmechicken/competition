@@ -54,3 +54,16 @@ Auflistung nach erzielten Platz im Spiel:
 8. Aegyptischer_Panda
 9. GawrilaGhul
 
+## Runde 6
+In dieser Runde sind 8 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 4. Dezember 2025, um 23:42 Uhr.
+
+Auflistung nach erzielten Platz im Spiel:  
+1. mariia_cel
+2. DontCallMeChicken
+3. geckoofcolor
+4. GawrilaGhul
+5. MayaManuka
+6. Coolmaster185
+7. Fuechsle__
+8. echteFrau
+
