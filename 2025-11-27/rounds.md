@@ -23,3 +23,14 @@ Auflistung nach erzielten Platz im Spiel:
 6. GawrilaGhul
 7. krischa88xx
 
+## Runde 3
+In dieser Runde sind 6 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 4. Dezember 2025, um 21:08 Uhr.
+
+Auflistung nach erzielten Platz im Spiel:  
+1. echteFrau
+2. DontCallMeChicken
+3. GawrilaGhul
+4. MayaManuka
+5. krischa88xx
+6. xsnowflake1x
+
