@@ -42,3 +42,16 @@ Auflistung nach erzielten Platz im Spiel:
 2. DontCallMeChicken
 3. GawrilaGhul
 
+## Runde 5
+In dieser Runde sind 8 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 4. Dezember 2025, um 22:53 Uhr.
+
+Auflistung nach erzielten Platz im Spiel:  
+1. Coolmaster185
+2. DontCallMeChicken
+3. echteFrau
+4. MayaManuka
+5. Fuechsle__
+6. mariia_cel
+7. geckoofcolor
+8. GawrilaGhul
+
