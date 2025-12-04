@@ -1,0 +1,11 @@
+## Rangliste nach mitgespielten Runden
+| Rang | Spieler | Rundenanzahl | Runden | Punkte | Rang Punkte |
+| -------: | :------- | -------: | -------: | :------- | -------: |
+| 0 | echteFrau | 1 | 1 | 8 | 0 |
+| 0 | GawrilaGhul | 1 | 1 | 7 | 0 |
+| 0 | mariia_cel | 1 | 1 | 6 | 0 |
+| 0 | Publikum | 1 | 1 | 5 | 0 |
+| 0 | D3lTa_Music | 1 | 1 | 4 | 0 |
+| 0 | DontCallMeChicken | 1 | 1 | 3 | 0 |
+| 0 | krischa88xx | 1 | 1 | 2 | 0 |
+| 0 | geckoofcolor | 1 | 1 | 1 | 0 |

@@ -1,0 +1,11 @@
+## Rangliste nach höchster Punktzahl
+| Rang | Spieler | Punkte | Rundenanzahl | Runden | Rang Runden |
+| -------: | :------- | -------: | -------: | :------- | -------: |
+| 0 | echteFrau | 8 | 1 | 1 | 0 |
+| 0 | GawrilaGhul | 7 | 1 | 1 | 0 |
+| 0 | mariia_cel | 6 | 1 | 1 | 0 |
+| 0 | Publikum | 5 | 1 | 1 | 0 |
+| 0 | D3lTa_Music | 4 | 1 | 1 | 0 |
+| 0 | DontCallMeChicken | 3 | 1 | 1 | 0 |
+| 0 | krischa88xx | 2 | 1 | 1 | 0 |
+| 0 | geckoofcolor | 1 | 1 | 1 | 0 |
