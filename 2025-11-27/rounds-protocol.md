@@ -60,3 +60,27 @@ Ergebnis vom 4. Dezember 2025, 22:53 Uhr.
 7. geckoofcolor: Punkte 2 (8), Rang 6, gesp. Runde 3
 8. GawrilaGhul: Punkte 1 (16), Rang 3, gesp. Runde 5
 
+## Runde 4 – zurückgesetzt
+**GawrilaGhuls ghuter Ghemeinschaftsabend – Jackbox Wettkampf**  
+Ergebnis vom 4. Dezember 2025, 22:53 Uhr.
+
+3 Mitspieler:
+1. echteFrau: Punkte 3 (17), Rang 1, gesp. Runde 3
+2. DontCallMeChicken: Punkte 2 (10), Rang 4, gesp. Runde 3
+3. GawrilaGhul: Punkte 1 (15), Rang 2, gesp. Runde 4
+
+## Runde 5 
+**GawrilaGhuls ghuter Ghemeinschaftsabend – Jackbox Wettkampf**  
+Ergebnis vom 4. Dezember 2025, 22:59 Uhr.
+
+9 Mitspieler:
+1. Coolmaster185: Punkte 9 (9), Rang 6, gesp. Runde 1
+2. DontCallMeChicken: Punkte 8 (18), Rang 2, gesp. Runde 4
+3. echteFrau: Punkte 7 (24), Rang 1, gesp. Runde 4
+4. MayaManuka: Punkte 6 (16), Rang 4, gesp. Runde 3
+5. Fuechsle__: Punkte 5 (5), Rang 8, gesp. Runde 1
+6. mariia_cel: Punkte 4 (17), Rang 3, gesp. Runde 3
+7. geckoofcolor: Punkte 3 (9), Rang 6, gesp. Runde 3
+8. Aegyptischer_Panda: Punkte 2 (2), Rang 9, gesp. Runde 1
+9. GawrilaGhul: Punkte 1 (16), Rang 4, gesp. Runde 5
+

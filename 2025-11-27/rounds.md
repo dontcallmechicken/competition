@@ -40,10 +40,8 @@ In dieser Runde sind 3 Mitspieler gegeneinander angetreten. Ergebnis eingetragen
 Auflistung nach erzielten Platz im Spiel:  
 1. echteFrau
 2. DontCallMeChicken
-3. GawrilaGhul
-
-## Runde 5
-In dieser Runde sind 8 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 4. Dezember 2025, um 22:53 Uhr.
+3. GawrilaGhul## Runde 5
+In dieser Runde sind 9 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 4. Dezember 2025, um 22:59 Uhr.
 
 Auflistung nach erzielten Platz im Spiel:  
 1. Coolmaster185
@@ -53,5 +51,6 @@ Auflistung nach erzielten Platz im Spiel:
 5. Fuechsle__
 6. mariia_cel
 7. geckoofcolor
-8. GawrilaGhul
+8. Aegyptischer_Panda
+9. GawrilaGhul
 
