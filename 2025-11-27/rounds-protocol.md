@@ -126,3 +126,17 @@ Ergebnis vom 5. Dezember 2025, 01:21 Uhr.
 7. FetterBurger: Punkte 2 (10), Rang 7, gesp. Runde 2
 8. krischa88xx: Punkte 1 (9), Rang 8, gesp. Runde 5
 
+## Runde 9 
+**GawrilaGhuls ghuter Ghemeinschaftsabend – Jackbox Wettkampf**  
+Ergebnis vom 5. Dezember 2025, 02:10 Uhr.
+
+8 Mitspieler:
+1. MayaManuka: Punkte 8 (36), Rang 2, gesp. Runde 7
+2. NutBrainsTV: Punkte 7 (7), Rang 11, gesp. Runde 1
+3. GawrilaGhul: Punkte 6 (34), Rang 3, gesp. Runde 9
+4. Fuechsle__: Punkte 5 (20), Rang 7, gesp. Runde 5
+5. krischa88xx: Punkte 4 (13), Rang 9, gesp. Runde 6
+6. Coolmaster185: Punkte 3 (25), Rang 6, gesp. Runde 5
+7. echteFrau: Punkte 2 (38), Rang 1, gesp. Runde 8
+8. Keks_Mafiaa: Punkte 1 (1), Rang 14, gesp. Runde 1
+

@@ -93,3 +93,16 @@ Auflistung nach erzielten Platz im Spiel:
 7. FetterBurger
 8. krischa88xx
 
+## Runde 9
+In dieser Runde sind 8 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 5. Dezember 2025, um 02:10 Uhr.
+
+Auflistung nach erzielten Platz im Spiel:  
+1. MayaManuka
+2. NutBrainsTV
+3. GawrilaGhul
+4. Fuechsle__
+5. krischa88xx
+6. Coolmaster185
+7. echteFrau
+8. Keks_Mafiaa
+
