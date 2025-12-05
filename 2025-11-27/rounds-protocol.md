@@ -152,3 +152,15 @@ Ergebnis vom 5. Dezember 2025, 02:43 Uhr.
 5. echteFrau: Punkte 2 (40), Rang 1, gesp. Runde 9
 6. GawrilaGhul: Punkte 1 (35), Rang 3, gesp. Runde 10
 
+## Runde 11 
+**GawrilaGhuls ghuter Ghemeinschaftsabend – Jackbox Wettkampf**  
+Ergebnis vom 5. Dezember 2025, 03:21 Uhr.
+
+6 Mitspieler:
+1. MayaManuka: Punkte 6 (45), Rang 1, gesp. Runde 9
+2. echteFrau: Punkte 5 (45), Rang 1, gesp. Runde 10
+3. Fuechsle__: Punkte 4 (29), Rang 5, gesp. Runde 7
+4. GawrilaGhul: Punkte 3 (38), Rang 3, gesp. Runde 11
+5. DontCallMeChicken: Punkte 2 (41), Rang 2, gesp. Runde 8
+6. Keks_Mafiaa: Punkte 1 (6), Rang 11, gesp. Runde 3
+

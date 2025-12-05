@@ -117,3 +117,14 @@ Auflistung nach erzielten Platz im Spiel:
 5. echteFrau
 6. GawrilaGhul
 
+## Runde 11
+In dieser Runde sind 6 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 5. Dezember 2025, um 03:21 Uhr.
+
+Auflistung nach erzielten Platz im Spiel:  
+1. MayaManuka
+2. echteFrau
+3. Fuechsle__
+4. GawrilaGhul
+5. DontCallMeChicken
+6. Keks_Mafiaa
+
