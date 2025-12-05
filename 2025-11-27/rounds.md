@@ -67,3 +67,16 @@ Auflistung nach erzielten Platz im Spiel:
 7. Fuechsle__
 8. echteFrau
 
+## Runde 7
+In dieser Runde sind 8 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 5. Dezember 2025, um 00:32 Uhr.
+
+Auflistung nach erzielten Platz im Spiel:  
+1. FetterBurger
+2. mariia_cel
+3. Coolmaster185
+4. Fuechsle__
+5. echteFrau
+6. MayaManuka
+7. krischa88xx
+8. GawrilaGhul
+
