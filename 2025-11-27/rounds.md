@@ -106,3 +106,14 @@ Auflistung nach erzielten Platz im Spiel:
 7. echteFrau
 8. Keks_Mafiaa
 
+## Runde 10
+In dieser Runde sind 6 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 5. Dezember 2025, um 02:43 Uhr.
+
+Auflistung nach erzielten Platz im Spiel:  
+1. DontCallMeChicken
+2. Fuechsle__
+3. Keks_Mafiaa
+4. MayaManuka
+5. echteFrau
+6. GawrilaGhul
+
