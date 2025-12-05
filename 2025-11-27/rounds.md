@@ -80,3 +80,16 @@ Auflistung nach erzielten Platz im Spiel:
 7. krischa88xx
 8. GawrilaGhul
 
+## Runde 8
+In dieser Runde sind 8 Mitspieler gegeneinander angetreten. Ergebnis eingetragen am 5. Dezember 2025, um 01:21 Uhr.
+
+Auflistung nach erzielten Platz im Spiel:  
+1. DontCallMeChicken
+2. echteFrau
+3. GawrilaGhul
+4. MayaManuka
+5. Coolmaster185
+6. Fuechsle__
+7. FetterBurger
+8. krischa88xx
+
