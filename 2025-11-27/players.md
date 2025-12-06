@@ -1,4 +1,7 @@
 ## Spielerliste
+Die Ränge sind hier im Nachhinein manuell korrigiert, da die automatische Vergabe des jeweiligen Ranges falsch zugewiesen wurde.  
+Die Punkte, Rundenanzahl sowie die Auflistung der mitgespielten Runden waren korrekt berechnet, bzw. aufgezählt.
+
 | Spieler | Punkte | Rundenanzahl | Runden | Rang Punkte | Rang Runden |
 | :------- | -------: | -------: | :------- | -------: | -------: |
 | echteFrau | 45 | 10 | 1,3,4,5,6,7,8,9,10,11 | 1 | 2 |
