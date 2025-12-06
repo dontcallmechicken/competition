@@ -1,7 +1,9 @@
 # Wettkämpfe
 
 ## Jackbox
-Der erste Jackbox-Wettkampf initiert von GawrilaGhul.
+Der erste Jackbox-Wettkampf, initiert von GawrilaGhul.
+
+* [2025-12-04](2025-12-04)
 
 ### GawrilaGhuls ghuter Ghemeinschaftsabend
 Am Donnerstag den 4. Dezember fand die Sondersendung „GawrilaGhuls ghuter Ghemeinschaftsabend“ statt.
