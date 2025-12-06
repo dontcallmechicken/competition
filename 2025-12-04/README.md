@@ -1,6 +1,6 @@
 # Jackbox Wettkampf
 
-## GawrilaGhuls ghuter Ghesellschaftsabend
+## GawrilaGhuls ghuter Ghemeinschaftsabend
 Am Donnerstag, den 4. Dezember findet die Sondersendung „GawrilaGhuls ghuter Ghemeinschaftsabend“ statt.
 
 Ein Strøm ghestaltet und ausgheführt von unserem ghuten GawrilaGhul, der als Proghrammchef ein tolles Potpourri an verschiedenen Jackbox-Spielen für uns zusammenghestellt hat.
