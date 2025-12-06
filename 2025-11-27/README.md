@@ -9,3 +9,7 @@ Alle Spiele finden als Wettkampf statt. Der Ghewinner darf sich am Ende über ei
 
 * Jackbox Wettkampf
 * Einlösung der Kanalherausforderung „Programmchef GawrilaGhul“
+
+## Korrektur
+Die Ränge in den Dateien `players.md` und `players.csv` sind im Nachhinein manuell korrigiert, da die automatische Vergabe des jeweiligen Ranges falsch zugewiesen wurde.  
+Die Punkte, Rundenanzahl sowie die Auflistung der mitgespielten Runden waren korrekt berechnet, bzw. aufgezählt.
